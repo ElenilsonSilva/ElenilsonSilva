@@ -46,7 +46,12 @@ Utilizo IA como parte do meu fluxo de desenvolvimento, o que me permite entregar
 
 ## 📌 Projetos em destaque
 
-> Em breve — portfólio com projetos reais sendo organizado aqui.
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🔔 Notificação de Entrega via WhatsApp](https://github.com/ElenilsonSilva/melhor-envio-notificacao-automatica) | Monitora status de pedidos no Melhor Envio e notifica clientes automaticamente via WhatsApp | n8n · Google Sheets · API |
+| [📊 Análise de Dados com Python](https://github.com/ElenilsonSilva/analise-dados-python) | EDA e regressão aplicados em datasets reais com Python e Jupyter | Python · Pandas · Scikit-learn |
+| 🔒 Sistema de Bloqueio *(privado)* | Sistema real desenvolvido para empresa — controle e gestão de bloqueios | — |
+| 🐺 Sistema Lobo *(privado)* | Sistema real desenvolvido para empresa — gestão operacional interna | — |
 
 ---
 
@@ -54,5 +59,3 @@ Utilizo IA como parte do meu fluxo de desenvolvimento, o que me permite entregar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenilson-silva-978a321b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elenilsonsilva1996si@gmail.com)
-
-
