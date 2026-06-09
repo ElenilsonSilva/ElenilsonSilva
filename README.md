@@ -55,10 +55,4 @@ Utilizo IA como parte do meu fluxo de desenvolvimento, o que me permite entregar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenilson-silva-978a321b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elenilsonsilva1996si@gmail.com)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElenilsonSilva&show_icons=true&theme=dark&hide_border=true&locale=pt-br&cache_seconds=1800" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenilsonSilva&layout=compact&theme=dark&hide_border=true&locale=pt-br&cache_seconds=1800" height="150"/>
-</p>
