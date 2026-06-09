@@ -58,6 +58,7 @@ Utilizo IA como parte do meu fluxo de desenvolvimento, o que me permite entregar
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElenilsonSilva&show_icons=true&theme=dark&hide_border=true&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenilsonSilva&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElenilsonSilva&show_icons=true&theme=dark&hide_border=true&locale=pt-br&cache_seconds=1800" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenilsonSilva&layout=compact&theme=dark&hide_border=true&locale=pt-br&cache_seconds=1800" height="150"/>
 </p>
